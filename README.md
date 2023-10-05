@@ -1,7 +1,7 @@
 # todo
 
-A new Flutter project.
-
+![alt text](https://github.com/Hussien657/todo/blob/master/Screenshot_20231005_204110.png)
+![alt text](https://github.com/Hussien657/todo/blob/master/Screenshot_20231005_204343.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
